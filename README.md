@@ -31,7 +31,7 @@ You need to have Ruby and Rails installed on your machine. See [this guide](http
 ### Installing
 
 1. Clone the repository: `git clone https://github.com/SAnkaLPtiwarii/project-mangement`
-2. Navigate into the project directory: `cd patient_management`
+2. Navigate into the project directory: `cd project-mangement`
 3. Install the dependencies: `bundle install`
 4. Set up the database: `rails db:create db:migrate`
 5. Start the server: `rails server`
